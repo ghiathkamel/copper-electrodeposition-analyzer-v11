@@ -10,3 +10,6 @@ You can now:
 • Optimize acid concentration
 • Predict if temperature will cause runaway
 • Estimate real surface area produced
+
+V11 Analyzer, open a terminal in its folder and run:
+py copper_analyzer_v11.py
